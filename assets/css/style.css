@@ -1,3 +1,12 @@
-div {
-    text-align: center;
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    margin:0;
+    height:100vh;
+    background-color: whitesmoke;
+}
+h1 {
+    margin: 1rem 0 1rem 0;
 }
